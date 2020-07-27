@@ -1,4 +1,4 @@
-# Daemon Supervisor
+# Process Supervisor
 This tool checks that the process is running at all times and starts it in case is down.
 
 ### Prerequisites
