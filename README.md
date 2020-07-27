@@ -3,6 +3,7 @@ This tool checks that the process is running at all times and starts it in case 
 
 ### Prerequisites
 Python 3.5+
+
 The script doesn't use any external dependencies.
 No additional packages required, standard library is enough to run it.
 
@@ -20,3 +21,24 @@ optional arguments:
 -  -r RETRIES, --retries RETRIES       Number of restart attempts before giving up (default = 5)
 -  -i INTERVAL, --interval INTERVAL    Check interval in seconds (default = 2)
 -  -v, --verbosity                     Increase logging verbosity (default loglevel INFO)
+
+### Examples
+
+Example 1:
+
+![alt-text](https://raw.githubusercontent.com/vl-siedge/process-supervisor/master/examples/example-1.gif)
+
+Example 2:
+![alt-text](https://raw.githubusercontent.com/vl-siedge/process-supervisor/master/examples/example-2.gif)
+
+Example 3:
+![alt-text](https://raw.githubusercontent.com/vl-siedge/process-supervisor/master/examples/example-3.gif)
+
+Example 4:
+![alt-text](https://raw.githubusercontent.com/vl-siedge/process-supervisor/master/examples/example-4.gif)
+
+Example 5:
+![alt-text](https://raw.githubusercontent.com/vl-siedge/process-supervisor/master/examples/example-5.gif)
+
+Example 6:
+![alt-text](https://raw.githubusercontent.com/vl-siedge/process-supervisor/master/examples/example-6.gif)
