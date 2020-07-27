@@ -25,7 +25,6 @@ optional arguments:
 ### Examples
 
 Example 1:
-
 ![alt-text](https://raw.githubusercontent.com/vl-siedge/process-supervisor/master/examples/example-1.gif)
 
 Example 2:
